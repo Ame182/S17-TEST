@@ -17,7 +17,7 @@
 
 - Revisamos el rendimiento del sitio en GTmetrix
 
-  ![Screenshot antes]()
+  ![Screenshot antes](https://user-images.githubusercontent.com/44590248/54797693-ecb77580-4c33-11e9-854b-ceb756d5b5bf.png)
 
 
 - Utilizamos los plugins para optimizar distintos aspectos
@@ -30,4 +30,4 @@
 
 
 - Revisar nuevamente rendimiento del sitio:
-  ![Screenshot Despues]()
+  ![Screenshot Despues](https://user-images.githubusercontent.com/44590248/54797717-0f498e80-4c34-11e9-9d2a-1fa0c038ffe4.png)
